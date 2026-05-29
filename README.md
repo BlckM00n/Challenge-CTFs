@@ -68,27 +68,6 @@ El objetivo de este repositorio es:
 
 ---
 
-# 📂 Estructura del repositorio
-
-Challenge/
-├── README.md
-├── capturas/
-├── archivos/
-└── solucion.md
-
----
-
-# 🚩 Plataformas
-
-* PicoCTF
-* HackTheBox
-* DockerLabs
-* TryHackMe
-* OverTheWire
-* Retos independientes
-
----
-
 # ⚠️ Disclaimer
 
 Todo el contenido de este repositorio tiene fines educativos y de práctica en entornos controlados.
